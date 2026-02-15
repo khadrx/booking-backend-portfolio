@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "c:/Portfolio/booking-backend/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "c:/Portfolio/booking-backend/venv/Lib/site-packages"
+  ],
+  "python.terminal.activateEnvironment": true
+}
